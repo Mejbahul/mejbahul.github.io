@@ -1512,7 +1512,7 @@ input::-moz-focus-inner {
   font-weight: 500;
   line-height: 1.222;
   margin-top: 0;
-  color: #9929ea;
+  color: #00ffcc;
 }
 
 .ss-dark .section-heading,
@@ -2539,7 +2539,7 @@ input::-moz-focus-inner {
 
 .s-services h4 {
   font-weight: 400;
-  color: #9929ea;
+  color: #00ffcc;
 }
 
 .s-services a {
